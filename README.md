@@ -7,4 +7,5 @@ Este programa permite guardar tareas en una agenda la cual será ordenada median
 ```bash
 git clone https://github.com/Nicofs04/Agenda
 cd Agenda
-gcc -o agenda main.c cola.c opciones.c func.c```
+gcc -o agenda main.c cola.c opciones.c func.c
+```
